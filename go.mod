@@ -1,4 +1,4 @@
-module github.com/codeallergy/fs
+module github.com/sprintframework/fs
 
 go 1.17
 
